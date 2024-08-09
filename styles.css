@@ -1,6 +1,6 @@
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #f4f4f4;
 }
 .container {
@@ -34,12 +34,14 @@ img.logo {
 .form-group button {
     padding: 10px 15px;
     background-color: #5cb85c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     border: none;
     color: #fff;
     cursor: pointer;
 }
 .form-group button[type="reset"] {
     background-color: #d9534f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .form-group button:hover {
     opacity: 0.9;
