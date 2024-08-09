@@ -1,7 +1,7 @@
 
 body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: #f4f4f4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #339fd1;
 }
 .container {
     max-width: 600px;
@@ -9,8 +9,6 @@ body {
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    align-items: center;
-    text-align: center;
 }
 img.logo {
     display: block;
@@ -35,14 +33,14 @@ img.logo {
 }
 .form-group button {
     padding: 10px 15px;
-    background-color: #5cb85c;
+    background-color: #125f12;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: none;
     color: #fff;
     cursor: pointer;
 }
 .form-group button[type="reset"] {
-    background-color: #d9534f;
+    background-color: #7c1d1a;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .form-group button:hover {
