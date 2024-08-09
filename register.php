@@ -41,7 +41,7 @@
             <div class="form-group">
                 <label for="department">College Department</label>
                 <select id="department" name="department">
-                    <option value="CBAA">CBA</option>
+                    <option value="CBA">CBA</option>
                     <option value="CCJE">CCJE</option>
                     <option value="CAS">CAS</option>
                     <option value="CCS">CCS</option>
