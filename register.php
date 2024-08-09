@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AUF Student Registration</title>
+    <title>Student Registration Page</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <img src="AUF logo.jpg" alt="AUF Logo" class="logo">
-        <h2>AUF Student Registration</h2>
+        <h2>Student Registration</h2>
         <form action="summary.php" method="post">
             <div class="form-group">
                 <label for="name">Name *</label>
