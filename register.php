@@ -8,8 +8,10 @@
 </head>
 <body>
     <div class="container">
+        <center>
         <img src="AUF logo.jpg" alt="AUF Logo" class="logo">
         <h2>Student Registration</h2>
+        </center>
         <form action="summary.php" method="post">
             <div class="form-group">
                 <label for="name">Name *</label>
@@ -41,9 +43,12 @@
                 <select id="department" name="department">
                     <option value="CBAA">CBA</option>
                     <option value="CCJE">CCJE</option>
-                    <option value="COE">COE</option>
+                    <option value="CAS">CAS</option>
                     <option value="CCS">CCS</option>
                     <option value="CON">CON</option>
+                    <option value="CAMP">CAMP</option>
+                    <option value="CEA">CEA</option>
+                    <option value="CED">CED</option>
                 </select>
             </div>
             <div class="form-group">
@@ -55,8 +60,10 @@
                 <input type="text" id="mobile" name="mobile">
             </div>
             <div class="form-group">
+                <center>
                 <button type="reset">Reset</button>
                 <button type="submit">Submit</button>
+                </center>
             </div>
         </form>
     </div>
