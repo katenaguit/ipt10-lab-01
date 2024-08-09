@@ -24,8 +24,8 @@ $mobile = htmlspecialchars($_POST['mobile']);
 </head>
 <body>
     <div class="container">
-        <img src="auf-logo.png" alt="AUF Logo" class="logo">
-        <h2>Registration Summary</h2>
+        <img src="AUF logo.jpg" alt="AUF Logo" class="logo">
+        <h2>Summary of Registration</h2>
         <table>
             <tr>
                 <th>Field</th>
